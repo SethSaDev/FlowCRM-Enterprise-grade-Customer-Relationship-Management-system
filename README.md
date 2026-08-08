@@ -19,13 +19,11 @@
   
   [✨ Live Demo](https://flowcrm-demo.yourdomain.com) •
   [📚 Documentation](https://docs.flowcrm.com) •
-  [🐛 Report Bug](https://github.com/yourusername/flowcrm/issues) •
-  [💡 Request Feature](https://github.com/yourusername/flowcrm/issues)
+  [🐛 Report Bug](https://github.com/SethSaDev/FlowCRM-Enterprise-grade-Customer-Relationship-Management-system/issues) •
+  [💡 Request Feature](https://github.com/SethSaDev/FlowCRM-Enterprise-grade-Customer-Relationship-Management-system/issues)
   
   <br />
   <br />
-  
-  ![FlowCRM Dashboard Demo](https://via.placeholder.com/800x400.png?text=FlowCRM+Dashboard+Demo)
   
 </div>
 
